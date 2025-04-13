@@ -99,6 +99,9 @@ RAGDocs provides the following tools:
 3. **list_sources** - List all documentation sources
 4. **add_directory** - Add files from a directory to the database
 
-## License
-
-MIT
+## Contact Information
+### Amornpan Phornchaicharoen
+[![Email](https://img.shields.io/badge/Email-amornpan%40gmail.com-red?style=flat-square&logo=gmail)](mailto:amornpan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amornpan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amornpan/)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-amornpan-yellow?style=flat-square)](https://huggingface.co/amornpan)
+[![GitHub](https://img.shields.io/badge/GitHub-amornpan-black?style=flat-square&logo=github)](https://github.com/amornpan)
